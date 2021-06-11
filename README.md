@@ -1,3 +1,9 @@
+# ☕ STARBUCKS
+
+스타벅스 랜딩 페이지(홈페이지) <br>
+
+[View](https://relaxed-almeida-f67026.netlify.app/)
+
 ## 문자 인코딩(Character Encoding) 설정
 
 문자가 인코딩되는 방식을 설정합니다.
